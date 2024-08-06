@@ -1,2 +1,3 @@
 # Crazy-Coffee
-Responsive web page designed using Frontend development skills. IDE used - BRACKETS 
+Responsive web page designed using HTML, CSS.
+#HTML #CSS #WEBDEVELOPMENT
